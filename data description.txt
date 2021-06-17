@@ -1,0 +1,10 @@
+This is a dataset for online orders placed at a retail business. The rows represent the transactions of every order being made. Our job is to find out how we can dive deep into this data set to bring out meaning for the retail business to make strategic business decisions. The dataset has 6000 rows.
+
+Invoice No: The unique number assigned to this particular row/transaction
+StockCode: The code of the item purchased
+Description: The description of the item purchased
+Quantity: The quantity of the item purchased
+InvoiceDate: The Date on which the item was purchased
+UnitPrice: The price at which the item was purchased
+CustomerID: The ID of the customer which has made this transaction
+Country: The country in which this transactio took place
